@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hola a todos 👋
+
+Me llamo Erik Caceres y soy egresado de Ingeniería en Informática de INACAP.
+Me gusta la programación en la cual estoy en constante aprendizaje para mejorar mis habilidades para resolver problemas a través de la tecnología. Mi objetivo es poder trabajar en proyectos desafiantes en los cuales se involucre el BackEnd y el FrontEnd 
+
+## Habilitades Tech
+
+
 
 <!--
 **Er1kDev/Er1kDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
