@@ -16,6 +16,8 @@
 <img style='border-radius:5px' align="left" width='50px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <!-- React -->
 <img style='border-radius:5px' align="left" width='50px' src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png">
+<!-- Astro -->
+<img style='border-radius:5px' align="left" width='50px' src='https://astro.build/assets/press/astro-icon-light-gradient.png'>
 <!-- HTML5 -->
 <img style='border-radius:5px' align="left" width='50px' src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png">
 <!-- CSS -->
