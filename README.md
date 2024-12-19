@@ -21,7 +21,7 @@
 <!-- HTML5 -->
 <img style='border-radius:5px' align="left" width='50px' src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png">
 <!-- CSS -->
-<img style='border-radius:5px' width='50px' src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png">
+<img style='border-radius:5px' width='50px' src="https://www.coywolf.news/wp-content/uploads/2024/11/purple-css-logo.webp">
 
 <!-- Python -->
 <img style='border-radius:5px' align="left" width='50px' src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
