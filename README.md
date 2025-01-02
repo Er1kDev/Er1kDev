@@ -2,7 +2,7 @@
 
 ## Hola a todos 👋
 
-✌️ Me llamo Erik Caceres y soy Software Developer
+✌️ Me llamo Erik Caceres.
 
 👉 Egresado de Ingeniería en Informática de INACAP.
 
